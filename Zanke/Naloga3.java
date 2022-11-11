@@ -1,3 +1,5 @@
+//a to dela?
+
 import java.util.Scanner;
 
 class Naloga3 {
